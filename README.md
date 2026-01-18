@@ -13,7 +13,7 @@
 
 3. Launch the game with a token in the URL:
 
-    https://example.com/game/?token=MYTOKEN123
+    `https://example.com/game/?token=MYTOKEN123`
 
 The injector will automatically:
 - read the token from the URL
