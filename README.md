@@ -1,6 +1,6 @@
 ### Using the Injector
 
-1. Copy `ws_injector.js` (you'll find it in `frontend/` folder) into the `scripts/` directory of your game build.
+1. Copy `ws-injector.js` (you'll find it in `frontend/` folder) into the `scripts/` directory of your game build.
 
 2. Open your HTML file and include the injector **before any Construct scripts**:
 
@@ -9,7 +9,7 @@
     <!-- other eventual files -->
     <script src="scripts/modernjscheck.js"></script>
     <script src="scripts/supportcheck.js"></script>
-    <script src="scripts/main.js" type="module"></script>```
+    <script src="scripts/main.js" type="module"></script>
 
 3. Launch the game with a token in the URL:
 
