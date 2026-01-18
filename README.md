@@ -4,11 +4,12 @@
 
 2. Open your HTML file and include the injector **before any Construct scripts**:
 
+    ```html
     <script src="scripts/ws-injector.js"></script>
     <!-- other eventual files -->
     <script src="scripts/modernjscheck.js"></script>
     <script src="scripts/supportcheck.js"></script>
-    <script src="scripts/main.js" type="module"></script>
+    <script src="scripts/main.js" type="module"></script>```
 
 3. Launch the game with a token in the URL:
 
